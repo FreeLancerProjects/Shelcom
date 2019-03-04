@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#450098</color>
+    <color name="colorPrimaryDark">#450098</color>
+    <color name="colorAccent">#450098</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="transparent">#00000000</color>
+    <color name="delete">#e71717</color>
+    <color name="gray">#bababa</color>
+    <color name="gray0">#FAFAFA</color>
+    <color name="gray1">#F5F5F5</color>
+    <color name="gray2">#EEEEEE</color>
+    <color name="gray3">#E0E0E0</color>
+    <color name="gray4">#424242</color>
+    <color name="gray5">#212121</color>
+    <color name="toolbar">#d8d8d8</color>
+    <color name="nav_color">#646466</color>
+    <color name="color_press">#6715c9</color>
+    <color name="hawyat">#fb3568</color>
+    <color name="not_color_bg">#bc2602</color>
+
+
+</resources>
